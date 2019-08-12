@@ -50,4 +50,31 @@
 		</plugins>
 	</build>
 
+
+
+
+
+
+
+
+
+
+	
+	<repositories>
+        <repository>
+            <id>myMavenRepo.read</id>
+            <url>https://mymavenrepo.com/repo/Rl6RLUdZXFojimjL0pc4/</url>
+        </repository>
+    </repositories>
+    
+    <distributionManagement>
+        <repository>
+            <id>myMavenRepo.write</id>
+            <url>https://mymavenrepo.com/repo/GdIcdiok5rYDG9k0FvJx/</url>
+        </repository>
+        <snapshotRepository>
+            <id>myMavenRepo.write</id>
+            <url>https://mymavenrepo.com/repo/GdIcdiok5rYDG9k0FvJx/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
