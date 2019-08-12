@@ -50,15 +50,6 @@
 		</plugins>
 	</build>
 
-
-
-
-
-
-
-
-
-
 	
 	<repositories>
         <repository>
@@ -72,9 +63,5 @@
             <id>myMavenRepo.write</id>
             <url>https://mymavenrepo.com/repo/GdIcdiok5rYDG9k0FvJx/</url>
         </repository>
-        <snapshotRepository>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/GdIcdiok5rYDG9k0FvJx/</url>
-        </snapshotRepository>
     </distributionManagement>
 </project>
